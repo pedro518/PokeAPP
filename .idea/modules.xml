@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PokeApp.iml" filepath="$PROJECT_DIR$/PokeApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
     </modules>
   </component>
 </project>
